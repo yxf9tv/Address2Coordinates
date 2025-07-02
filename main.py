@@ -3,7 +3,7 @@ import requests
 import time
 
 # Replace this with your actual API key
-API_KEY = 'AIzaSyCBpbKmW9O_QpJBr5eXHxGUjNM3bKAjEp4'
+API_KEY = 'blocked out for privacy'
 
 # Load the CSV
 df = pd.read_csv("geocoded_addresses.csv")
